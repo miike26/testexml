@@ -7,7 +7,7 @@
 		<name>Loja</name>
 	</author>
 	<id>/googleshopping.xml</id>
-	<channel xmlns="">
+	<channel>
 		<item>
 			<g:id><![CDATA[11]]></g:id>
 			<title><![CDATA[Secador de Cabelo Vulcan Digital 2500W]]></title>
