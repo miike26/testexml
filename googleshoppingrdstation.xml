@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss xmlns:g="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns:g="http://base.google.com/ns/1.0" xmlns="http://www.w3.org/2005/Atom">
 	<title>LojaExemplo</title>
 	<link rel="self" href="www.lojavazia.com.br"/>
 	<updated>2025-09-25T14:50:07Z</updated>
@@ -7,8 +7,7 @@
 		<name>Loja</name>
 	</author>
 	<id>/googleshopping.xml</id>
-	<channel>
-		<item>
+	<entry>
 			<g:id><![CDATA[11]]></g:id>
 			<title><![CDATA[Secador de Cabelo Vulcan Digital 2500W]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Secadores]]></g:google_product_category>
@@ -26,8 +25,8 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<g:id><![CDATA[12]]></g:id>
 			<title><![CDATA[Modelador Curves Automatic Turbo Íon - Bivolt]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Tenacillas]]></g:google_product_category>
@@ -45,8 +44,8 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<g:id><![CDATA[18]]></g:id>
 			<title><![CDATA[Escova Secadora Easy Verde]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Peines y cepillos]]></g:google_product_category>
@@ -64,8 +63,8 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<g:id><![CDATA[33]]></g:id>
 			<title><![CDATA[Secador de Cabelo Fox 3 Kompress 2200W Soft Blue]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Secadores]]></g:google_product_category>
@@ -83,8 +82,8 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<g:id><![CDATA[66]]></g:id>
 			<title><![CDATA[Chapa Titanium Laranja 200ºC - 230ºC - Bivolt]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Planchas de pelo]]></g:google_product_category>
@@ -102,8 +101,8 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-		<item>
+		</entry>
+		<entry>
 			<g:id><![CDATA[9]]></g:id>
 			<title><![CDATA[Escova Secadora Tourmaline]]></title>
 			<g:google_product_category><![CDATA[Salud y belleza > Cuidado personal > Cuidado capilar > Útiles de peluquería > Peines y cepillos]]></g:google_product_category>
@@ -121,7 +120,7 @@
 			</g:installment>
 			<g:availability><![CDATA[in stock]]></g:availability>
 			<g:condition>new</g:condition>
-		</item>
-	</channel>
-</rss>
+		</entry>
+
+</feed>
 <!-- Processado no dia: 25/09/2025 em 00:00:01.5665481 as 14:50! Na coleção: 6 produtos. Foram considerados: 6 produtos. Listado um total de 6 SKUs -->
