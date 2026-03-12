@@ -12,7 +12,21 @@
 			<Variant>
 				<id>var-1</id>
 				<title>Cor: Vermelha</title>
-				<description>Camiseta vermelha com uma logo da RD Station na frente.</description>
+				<description>exame 1.</description>
+				<link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
+				<image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png</image_link>
+				<!-- type decimal -->
+				<price>12.59</price>
+				<!-- type decimal -->
+				<compare_at_price>15.59</compare_at_price>
+				<sku>SKU-TSHIRT2</sku>
+				<!-- type integer -->
+				<inventory_quantity>30</inventory_quantity>
+			</Variant>
+			<Variant>
+				<id>var-2</id>
+				<title>Cor: Azul</title>
+				<description>exame 2.</description>
 				<link>https://sualoja.myshopify.com/collections/rdstation-classics/products/t-shirt-1</link>
 				<image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Capturadetela2024-05-09180122.png</image_link>
 				<!-- type decimal -->
